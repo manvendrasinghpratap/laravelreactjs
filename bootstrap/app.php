@@ -14,7 +14,7 @@
 $app = new Illuminate\Foundation\Application(
     dirname(__DIR__)
 );
-
+ 
 /*
 |--------------------------------------------------------------------------
 | Bind Important Interfaces
